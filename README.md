@@ -37,7 +37,7 @@
 </p>
 
 <p align="center" style="display: flex; align-items: center; justify-content:center;">
-  <img alt="Home" src=".github/pokemonCard" width="100%">
+  <img alt="Home" src=".github/pokemonCard.gif" width="100%">
 </p>
 
 ## :rocket: Info
